@@ -1,12 +1,19 @@
 # imersão Alura React 4
 
-## Tecnologias:
+### Features:
+  - [x] Utilizar imagem do usuário no github e nome do usuário
+  - [x] Enviar mensagem 
+  - [x] Salvar mensagens no banco de dados
+  - [x] Utilizar Stickers na conversa.
+  - [x] Conversa em tempo real.
+
+### Tecnologias:
 
 - Next
 - React
 - React-dom
 
-## Utilizar:
+### Utilizar:
 
 - Clone
 
@@ -14,13 +21,15 @@
 git clone https://github.com/imersao-react.git
 ```
 
-## Inicializar:
+### Inicializar:
 
 - Yarn
 
 ```bash
 yarn dev
 ```
+
+OR
 
 - Npm
 
