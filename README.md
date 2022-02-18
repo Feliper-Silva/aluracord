@@ -8,8 +8,8 @@ Sala de conversa em tempo real, sensasional para conversar com seus amigos!
 ### 💻 Tecnologias:
 
 
-- [Next](https://nextjs.org/)
-- [React](https://reactjs.org)
+- [NextJs](https://nextjs.org/)
+- [ReactJs](https://reactjs.org)
 - [Supabase](https://supabase.com/)
 - [Api Github](https://api.github.com/)
 
